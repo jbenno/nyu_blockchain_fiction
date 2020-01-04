@@ -77,6 +77,8 @@ https://youtu.be/U_LK0t_qaPo
 https://youtu.be/0ilYnuP1qd4
 https://youtu.be/sE7998qfjgk
 
+### Misc Links
+
 https://www.google.com/maps/d/viewer?mid=1LkZCJb8VM0XDMyNtkaRRUtgdeTI&hl=en_US&ll=40.67526205417419%2C-73.97962625000002&z=17
 
 http://ethdocs.org/en/latest/introduction/index.html
@@ -101,6 +103,8 @@ https://keepingstock.net/a-dummies-guide-to-polkadot-and-parachains-93708bd90775
 https://hbr.org/2017/03/the-blockchain-will-do-to-banks-and-law-firms-what-the-internet-did-to-media
 
 https://www.americanbanker.com/news/cheat-sheet-the-trade-offs-of-blockchain-privacy-tools
+
+https://blog.coinbase.com/what-will-happen-to-cryptocurrency-in-the-2020s-d93746744a8f
 
 
 
